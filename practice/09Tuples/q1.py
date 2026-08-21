@@ -1,0 +1,6 @@
+t=(1,2,3,4,5)
+print(t)
+print(type(t))
+print(len(t))
+l=list(t)
+print(l)
